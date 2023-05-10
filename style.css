@@ -1,0 +1,47 @@
+body {
+    background-color:darkturquoise;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+div {
+    background-color: #b39ddb;
+    padding: 20px;
+}
+
+h1 {
+    font-size: 45px;
+    color: rgb(243, 255, 252);
+}
+
+h2 {
+    font-size: 35px;
+    letter-spacing: .4rem;
+}
+
+p {
+    font-size: 16px;
+    font-weight: 200;
+}
+
+button {
+    width: 150px;
+    height: 80px;
+    background-color: azure;
+}
+
+.login-button {
+    background-color: hotpink;
+    border: 4px solid lightgray;
+}
+
+.main {
+    background-color: aliceblue;
+    margin: 25px;
+    border: 4px dotted coral;
+}
+
+#logout {
+    border-radius: 13px;
+    border: 4px dashed lightgreen;
+}
